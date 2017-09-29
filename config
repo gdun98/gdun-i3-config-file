@@ -181,7 +181,7 @@ for_window [class="^.*"] border pixel 1
 # exec nm-applet
 
 # setting the desktop background
-exec feh --bg-scale /home/george/Documents/Pictures/Climbing/moonboard.jpg
+exec feh --bg-scale /home/george/Documents/Pictures/Backgrounds/cosmos2.jpe
 
 exec compton --config /home/george/.comptron/config.conf -b
 
